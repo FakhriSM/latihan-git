@@ -1,6 +1,8 @@
+/**
+ * Program sederhana untuk menampilkan pesan Hello World
+ */
 public class Hello {
     public static void main(String[] args) {
-        String message = "Hello, World!";
-        System.out.println(message);
+        System.out.println("Hello, World!");
     }
 }
